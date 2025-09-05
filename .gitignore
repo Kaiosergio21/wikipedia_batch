@@ -1,0 +1,44 @@
+# -------------------------
+# AMBIENTE VIRTUAL
+# -------------------------
+venv/
+.env/
+.venv/
+
+# -------------------------
+# ARQUIVOS PYTHON COMPILADOS
+# -------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# -------------------------
+# CONFIGURAÇÕES E METADADOS
+# -------------------------
+*.db
+*.sqlite3
+*.log
+
+# -------------------------
+# DOCUMENTOS GERADOS
+# -------------------------
+*.docx
+*.pdf
+*.xlsx
+*.csv
+
+# -------------------------
+# BACKUPS OU TEMPORÁRIOS
+# -------------------------
+*.bak
+*.swp
+*.tmp
+
+# -------------------------
+# IDEs E EDITORES
+# -------------------------
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
